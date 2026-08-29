@@ -12,7 +12,7 @@
 
 ---
 
-![Amiga Workbench 2.04](screenshot.png)
+![Amiga Workbench 2.04](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/screenshot.png)
 
 ## What this is
 
@@ -32,7 +32,7 @@ This theme carries that relief faithfully. Gadgets are raised, fields are recess
 controls have room to breathe, and the steel blue appears only where something is active
 or selected.
 
-![Amiga Workbench 2.04 in dark mode](docs/images/02-workspace-dark.png)
+![Amiga Workbench 2.04 in dark mode](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/docs/images/02-workspace-dark.png)
 
 ## Why you might choose this one
 
@@ -65,7 +65,7 @@ is hidden behind a gradient or an image.
 | Spacing unit | 0.4rem | Roomier than 1.3 |
 | Control height | 2rem | Larger, more comfortable gadgets |
 
-![Ribbon and file explorer](docs/images/03-chrome-detail.png)
+![Ribbon and file explorer](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/docs/images/03-chrome-detail.png)
 
 ## What is covered
 
@@ -81,7 +81,7 @@ The theme styles the whole application, not just the editor:
 - **Canvas, graph, Bases and backlinks** — consistent surface and control treatment
 - **Settings** — including when opened in its own window
 
-![Editor and properties](docs/images/04-editor-and-properties.png)
+![Editor and properties](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/docs/images/04-editor-and-properties.png)
 
 ## Installation
 
