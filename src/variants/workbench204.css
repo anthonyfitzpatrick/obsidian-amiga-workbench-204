@@ -1,0 +1,43 @@
+/* Early-1990s Workbench: neutral grey screen, white/black chrome, steel-blue accents.
+   Colour only: the structural contract lives in src/components/workbench-chrome.css. */
+.amiga-workbench-204 {
+  --amiga-personality: "Workbench 2.04";
+  --amiga-desktop: #aaaaaa;
+  --amiga-window: #b8b8b8;
+  --amiga-panel: #a8a8a8;
+  --amiga-surface-raised: #b8b8b8;
+  --amiga-surface-recessed: #929292;
+  --amiga-input-background: #c4c4c4;
+  --amiga-text: #141414;
+  --amiga-text-muted: #494949;
+  --amiga-text-disabled: #636363;
+  --amiga-text-on-accent: #f4f4f4;
+  --amiga-text-on-selection: #ffffff;
+  --amiga-text-title: #f4f4f4;
+  --amiga-text-accent: #294b67;
+  --amiga-titlebar: #4d6f8f;
+  --amiga-titlebar-inactive: #6f6f6f;
+  --amiga-border-light: #f4f4f4;
+  --amiga-border-middle: #777777;
+  --amiga-border-dark: #202020;
+  --amiga-accent: #4d6f8f;
+  --amiga-hover: #c8c8c8;
+  --amiga-active: #4d6f8f;
+  --amiga-selection: #4d6f8f;
+  --amiga-focus: #315675;
+  --amiga-icon-paper: #f4f4f4;
+  --amiga-icon-ink: #202020;
+  --amiga-icon-accent: #4d6f8f;
+
+  /* Workbench 2.0 introduced the 3D gadget: raised controls lit from the upper left,
+     recessed fields, and more room around them. That relief is the whole visual
+     argument of 2.x over 1.x, so it belongs here rather than inheriting 1.3's flatness.
+     Declared style tokens only — no structure is restated. */
+  --amiga-bevel-width: 2px;
+  --amiga-spacing-unit: 0.4rem;
+  --amiga-control-height: 2rem;
+  --amiga-window-bevel: inset 2px 2px 0 var(--amiga-border-light), inset -2px -2px 0 var(--amiga-border-middle);
+  --amiga-raised-bevel: inset 2px 2px 0 var(--amiga-border-light), inset -2px -2px 0 var(--amiga-border-middle);
+  --amiga-recessed-bevel: inset 2px 2px 0 var(--amiga-border-middle), inset -2px -2px 0 var(--amiga-border-light);
+  --amiga-pressed-bevel: inset 2px 2px 0 var(--amiga-border-middle), inset -2px -2px 0 var(--amiga-border-light);
+}

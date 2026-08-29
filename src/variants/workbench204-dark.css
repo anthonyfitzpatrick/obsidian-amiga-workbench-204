@@ -1,0 +1,32 @@
+/* Early-1990s Workbench after dark: charcoal screen, steel-blue accents.
+   Colour only: the structural contract lives in src/components/workbench-chrome.css. */
+.theme-dark.amiga-workbench-204 {
+  --amiga-personality: "Workbench 2.04";
+  color-scheme: dark;
+  --amiga-desktop: #3d3d3d;
+  --amiga-window: #4a4a4a;
+  --amiga-panel: #3f3f3f;
+  --amiga-surface-raised: #4a4a4a;
+  --amiga-surface-recessed: #303030;
+  --amiga-input-background: #353535;
+  --amiga-text: #eeeeee;
+  --amiga-text-muted: #c0c0c0;
+  --amiga-text-disabled: #999999;
+  --amiga-text-on-accent: #101010;
+  --amiga-text-on-selection: #ffffff;
+  --amiga-text-title: #f4f4f4;
+  --amiga-text-accent: #a8c2d6;
+  --amiga-titlebar: #4d6f8f;
+  --amiga-titlebar-inactive: #666666;
+  --amiga-border-light: #8e8e8e;
+  --amiga-border-middle: #292929;
+  --amiga-border-dark: #101010;
+  --amiga-accent: #6f97b8;
+  --amiga-hover: #5a5a5a;
+  --amiga-active: #4d6f8f;
+  --amiga-selection: #4d6f8f;
+  --amiga-focus: #a8c2d6;
+  --amiga-icon-paper: #d8d8d8;
+  --amiga-icon-ink: #101010;
+  --amiga-icon-accent: #7ea8cc;
+}
