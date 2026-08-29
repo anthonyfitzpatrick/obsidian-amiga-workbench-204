@@ -32,19 +32,7 @@ This theme carries that relief faithfully. Gadgets are raised, fields are recess
 controls have room to breathe, and the steel blue appears only where something is active
 or selected.
 
-<!-- SCREENSHOT 02 -->
-> ### 📷 Screenshot 02 — Amiga Workbench 2.04 in dark mode
-> **Save as:** `docs/images/02-workspace-dark.png`
->
-> **What this image must show:** The same window, same note, same folders expanded — but in dark mode. Keeping the content identical to Screenshot 01 lets people compare the two directly.
->
-> **How to capture it:**
-> 1. Leave everything exactly as it was for Screenshot 01. Do not resize or change the note.
-> 2. Settings → Appearance → set **Base theme** to *Dark*.
-> 3. Close Settings.
-> 4. On macOS press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>4</kbd>, then press <kbd>Space</kbd>, then click the Obsidian window — this captures the window cleanly with its shadow. On Windows use <kbd>Alt</kbd>+<kbd>PrtScn</kbd>, or Snipping Tool set to Window mode.
->
-> *Delete this block and replace it with:* `![Amiga Workbench 2.04 in dark mode](docs/images/02-workspace-dark.png)`
+![Amiga Workbench 2.04 in dark mode](docs/images/02-workspace-dark.png)
 
 ## Why you might choose this one
 
