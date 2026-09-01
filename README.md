@@ -12,7 +12,11 @@
 
 ---
 
-![Amiga Workbench 2.04](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/screenshot.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/screenshot.png" alt="Amiga Workbench 2.04" width="900">
+</p>
+
+<p align="center"><em>Workbench 2.04 in light mode. The 1990 redesign replaced 1.3's blue desktop with a neutral grey and gave every gadget dimension: raised buttons, recessed fields, and steel blue title bars lit from the upper left.</em></p>
 
 ## What this is
 
@@ -32,7 +36,11 @@ This theme carries that relief faithfully. Gadgets are raised, fields are recess
 controls have room to breathe, and the steel blue appears only where something is active
 or selected.
 
-![Amiga Workbench 2.04 in dark mode](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/docs/images/02-workspace-dark.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/docs/images/02-workspace-dark.png" alt="Amiga Workbench 2.04 in dark mode" width="900">
+</p>
+
+<p align="center"><em>The same workspace in dark mode. The relief and the steel blue survive intact over a neutral charcoal screen. The deliberate absence of any colour cast is what separates 2.04's dark mode from 3.1's.</em></p>
 
 ## Why you might choose this one
 
@@ -65,7 +73,11 @@ is hidden behind a gradient or an image.
 | Spacing unit | 0.4rem | Roomier than 1.3 |
 | Control height | 2rem | Larger, more comfortable gadgets |
 
-![Ribbon and file explorer](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/docs/images/03-chrome-detail.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/docs/images/03-chrome-detail.png" alt="Ribbon and file explorer" width="400">
+</p>
+
+<p align="center"><em>The ribbon and the file tree at depth. The connector rails and disclosure triangles are drawn in 2.04's cool grey — compare the same view in 3.1, where they are salmon. The ribbon pictograms are original drawings, not Obsidian's default line icons.</em></p>
 
 ## What is covered
 
@@ -81,7 +93,11 @@ The theme styles the whole application, not just the editor:
 - **Canvas, graph, Bases and backlinks** — consistent surface and control treatment
 - **Settings** — including when opened in its own window
 
-![Tab strip, breadcrumbs and toolbar](https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/docs/images/04-tab-strip.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anthonyfitzpatrick/obsidian-amiga-workbench-204/main/docs/images/04-tab-strip.png" alt="Tab strip, breadcrumbs and toolbar" width="900">
+</p>
+
+<p align="center"><em>The tab strip, the breadcrumb path and the toolbar row beneath them. The 2px bevel that defines 2.04 is visible on the tabs and the gadgets either side of the path, and the new-tab gadget shares its top and bottom edges with the tabs.</em></p>
 
 ## Installation
 

@@ -47,7 +47,11 @@ deliberate departure and there are only a handful of them.
 
 ## Installing
 
-![Selecting the theme](docs/images/g01-select-theme.png)
+<p align="center">
+  <img src="docs/images/g01-select-theme.png" alt="Selecting the theme" width="720">
+</p>
+
+<p align="center"><em>Settings → Appearance → Themes, with the installed themes listed. Choose Amiga Workbench 2.04 from this dropdown; the change applies immediately and no restart is needed.</em></p>
 
 ### From the Community Themes browser
 
@@ -76,9 +80,17 @@ Both modes were designed separately. Neither is a mechanical inversion of the ot
 
 Go to **Settings → Appearance → Base theme** and choose *Light* or *Dark*.
 
-![Light mode](screenshot.png)
+<p align="center">
+  <img src="screenshot.png" alt="Light mode" width="900">
+</p>
 
-![Dark mode](docs/images/02-workspace-dark.png)
+<p align="center"><em>Light mode. Neutral grey surfaces, steel blue title bars, and the full 2px relief on every control — raised where you press, recessed where you type.</em></p>
+
+<p align="center">
+  <img src="docs/images/02-workspace-dark.png" alt="Dark mode" width="900">
+</p>
+
+<p align="center"><em>Dark mode. The screen becomes a neutral charcoal and the relief is kept rather than flattened. It stays deliberately colour-neutral, which is what distinguishes it from 3.1 in low light.</em></p>
 
 Dark mode keeps the relief and the steel blue over a neutral charcoal screen. It
 stays deliberately colour-neutral, which is what separates it from 3.1's dark mode even
@@ -94,7 +106,11 @@ The ribbon, tab bar, view headers and status bar are rebuilt as Workbench chrome
 outlines, square gadgets, and a title strip treatment on the surfaces that behave like
 window titles.
 
-![Tab strip, breadcrumbs and view header chrome](docs/images/04-tab-strip.png)
+<p align="center">
+  <img src="docs/images/04-tab-strip.png" alt="Tab strip, breadcrumbs and view header chrome" width="900">
+</p>
+
+<p align="center"><em>The workspace shell. The tabs, the navigation gadgets and the view actions all carry the 2px bevel, the breadcrumb path runs as clickable text with the current note in bold, and the toolbar row sits flush beneath.</em></p>
 
 Ribbon icons for the core Obsidian actions — quick switcher, graph view, canvas, command
 palette, templates, bases — are **original pictograms drawn for this theme** rather than
@@ -104,7 +120,11 @@ whichever plugins you have.
 
 ### The file explorer
 
-![File explorer and indentation](docs/images/03-chrome-detail.png)
+<p align="center">
+  <img src="docs/images/03-chrome-detail.png" alt="File explorer and indentation" width="400">
+</p>
+
+<p align="center"><em>The file explorer. Connector rails drop from each disclosure triangle to mark the nesting level, and the selected row takes a solid steel blue bar. The rails are grey here; 3.1 draws the same structure in salmon.</em></p>
 
 Each nesting level is marked by a connector rail dropping from beneath its parent's
 disclosure triangle. Folder and file labels align at every depth. Disclosure triangles are
@@ -123,7 +143,11 @@ on the left, values in recessed fields on the right.
 
 ### Command palette, menus and notices
 
-![Command palette](docs/images/g07-command-palette.png)
+<p align="center">
+  <img src="docs/images/g07-command-palette.png" alt="Command palette" width="800">
+</p>
+
+<p align="center"><em>The command palette over a note. A recessed entry field sits above square result rows, the highlighted row is carried in steel blue, and the keyboard hints along the bottom are drawn as small raised gadgets — the way Workbench drew key labels.</em></p>
 
 The palette gets a recessed entry field over square result rows, with a solid selection
 bar and keyboard hints drawn as small raised gadgets — the way Workbench drew key labels.
