@@ -1,4 +1,4 @@
-# Amiga Workbench 2.04 — User Guide
+# Modern Amiga Workbench 2.04 inspired — User Guide
 
 A complete guide to installing, using, customising and troubleshooting this theme.
 

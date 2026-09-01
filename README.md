@@ -1,4 +1,4 @@
-# Amiga Workbench 2.04 for Obsidian
+# Modern Amiga Workbench 2.04 inspired
 
 **Neutral grey, steel blue, and the arrival of the three-dimensional gadget.**
 
