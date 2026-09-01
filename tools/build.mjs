@@ -3,7 +3,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 /* Builds this theme's theme.css from the modules in src/. Self-contained: nothing here
    reads from, or depends on, any other repository. */
 
-const NAME = 'Modern Amiga Workbench 2.04 inspired theme';
+const NAME = 'Modern Amiga Workbench 2.04 inspired';
 const PERSONALITY = 'Workbench 2.04';
 const LIGHT = 'src/variants/workbench204.css';
 const DARK  = 'src/variants/workbench204-dark.css';
